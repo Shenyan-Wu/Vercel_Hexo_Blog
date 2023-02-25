@@ -99,7 +99,7 @@ gitbook build && gitbook serve
 
 结构类似如下
 
-![summary](C:\Users\offic\AppData\Roaming\Typora\typora-user-images\image-20230225144714063.png)
+![summary](https://s2.loli.net/2023/02/25/7bFINWXDupmtrHK.png)
 
 > 文件后面添加 # + name 可以实现区域导航
 
