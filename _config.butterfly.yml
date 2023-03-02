@@ -3,15 +3,28 @@
 # --------------------------------------
 
 menu:
-  Home: / || fas fa-home
-  Archives: /archives/ || fas fa-archive
-  Tags: /tags/ || fas fa-tags
-  Categories: /categories/ || fas fa-folder-open
-  List||fas fa-list:
-    Music: /music/ || fas fa-music
-    Movie: /movies/ || fas fa-video
-  Link: /link/ || fas fa-link
-  About: /about/ || fas fa-heart
+   主页: / || fas fa-home
+   时间轴: /archives/ || fas fa-archive
+   标签: /tags/ || fas fa-tags
+   分类: /categories/ || fas fa-folder-open
+   娱乐||fas fa-list:
+     - Music || /music/ || fas fa-music
+     - Videos || /videos/ || fas fa-video
+     - 追番收藏 || /bangumis/ || fas fa-folder
+   友链: /link/ || fas fa-address-book
+   留言板: /comment/ || fas fa-paper-plane
+   关于我||fas fa-heart:
+     - 关于 || /about/ || fas fa-address-book
+  # EN language bar
+  # Home: / || fas fa-home
+  # Archives: /archives/ || fas fa-archive
+  # Tags: /tags/ || fas fa-tags
+  # Categories: /categories/ || fas fa-folder-open
+  # List||fas fa-list:
+  #   Music: /music/ || fas fa-music
+  #   Movie: /movies/ || fas fa-video
+  # Link: /link/ || fas fa-link
+  # About: /about/ || fas fa-heart
 
 nav:
   logo: # image
@@ -94,14 +107,14 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
-  effect: false
+  img: https://cdn.chrelyonly.cf/gh/Shenyan-Wu/BlogImages/img/ShenyanWu.png
+  effect: true
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img:
+index_img: https://cdn.chrelyonly.cf/gh/Shenyan-Wu/BlogImg/img/background_new.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
