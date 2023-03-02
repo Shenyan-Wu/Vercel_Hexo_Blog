@@ -10,7 +10,6 @@ menu:
    娱乐||fas fa-list:
      - Music || /music/ || fas fa-music
      - Videos || /videos/ || fas fa-video
-     - 追番收藏 || /bangumis/ || fas fa-folder
    友链: /link/ || fas fa-address-book
    留言板: /comment/ || fas fa-paper-plane
    关于我||fas fa-heart:

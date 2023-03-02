@@ -2,7 +2,6 @@
 title: 漫剪收藏
 date: 2021-07-23 18:09:17
 aside: false
-comments: false
 type: videos
 top_img: https://cdn.jsdelivr.net/gh/Shenyan-Wu/BlogImages/img/video_top.jpeg
 ---
