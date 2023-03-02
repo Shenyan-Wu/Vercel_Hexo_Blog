@@ -1,5 +1,6 @@
 ---
 title: OpenAi 注册教程
+date: 2023-02-25 16:35:16
 tags: 
 	- "OpenAI"
 	- "教程"
