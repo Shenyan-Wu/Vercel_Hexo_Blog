@@ -10,8 +10,3 @@ type: "music"
 <center><font color=#D7604E size=3 face="楷体">歌单来源为我的网易云音乐歌单，如果有好听的歌曲欢迎评论留言，可以加进去一起听呐</font></center>
 
 
-
- {% meting "6610096442" "netease" "playlist" %}
-
- {% meting "3173290963" "netease" "playlist" %}
-
