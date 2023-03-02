@@ -5,7 +5,7 @@ tags:
 	- "CAN Protocol"
 	- "教程"
 top_img: https://cdn.chrelyonly.cf/gh/Shenyan-Wu/BlogImages/img/subghost.jpeg
-cover: https://cdn.chrelyonly.cf/gh/Shenyan-Wu/BlogImg/img/Flappy%20Bird.jpg
+cover: https://cdn.chrelyonly.cf/gh/Shenyan-Wu/BlogImages/img/CAN%20Controller%20title.png
 ---
 # 概述
 
